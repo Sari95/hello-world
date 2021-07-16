@@ -1,4 +1,4 @@
 # hello-world
-Einrichtung des ersten Repository
+Setting up the first repository
 
-I work in Marketing Automation and Webdesign and like programming. 
+Something about me: I work in Marketing Automation and Webdesign and like programming.
